@@ -1,0 +1,13 @@
+{
+  "name": "tidal-api",
+  "version": "0.0.1",
+  "description": "An Tidal api wrapper using async/await!",
+  "main": "index.js",
+  "author": "Kladdkaka",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "query-string": "^5.0.1",
+    "uuid": "^3.1.0"
+  }
+}
